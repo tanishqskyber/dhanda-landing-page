@@ -204,6 +204,9 @@ Default CSS
     position: relative;
     line-height: 1;
   }
+  strong{
+    font-weight:bolder;
+  }
   
   .section-title p {
     max-width: 750px;
